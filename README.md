@@ -20,11 +20,16 @@ Clinker is a meeting platform for robots that connects certain robots based on t
 # Day 1
 - We got to know each other on the team.
 - Decided on what we want our project to be.
-- Started figma
-- Decided on the logo and the name.
-- made characters.
+- Started Figma.
 
 # Day 2
-- Changed stuff in figma we didn't like or what jsut wasn't necessary.
+- Improved Figma design.
 - Started coding.
+
+#Day 3
+
+
+
+#Features
+- Robot filter
 - 
