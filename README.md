@@ -1,6 +1,14 @@
-# clinker
+# Clinker
 
-clanker tinder
+Our team decided on the robots meeting platform called Clinker.
 
-...yes, really.
 
+# Day 1
+- We got to know each other on the team.
+- Decided on what we want our project to be.
+- Started figma
+
+# Day 2
+- Changed stuff in figma we didn't like or what jsut wasn't necessary.
+- Started coding.
+- 
