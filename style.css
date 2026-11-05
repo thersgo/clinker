@@ -13,10 +13,19 @@
   margin-bottom: 1rem;
 }
 
+.no-pref {
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
 .bot-types img, h2, p {
   max-width: 100%;
   max-height: 50%;
   text-wrap: wrap;
+}
+
+.bot-type {
+  flex-wrap: nowrap;
 }
 
 .bot-type,
@@ -26,15 +35,15 @@
   padding: 1rem;
 }
 
-.bot-types input[type="radio"]:checked + label {
+.bot-types input[type="radio"]:checked + label, .no-pref input[type="radio"]:checked + label {
   border-color: #333;
 }
 
-.bot-types input[type="radio"]:focus-visible + label {
+.bot-types input[type="radio"]:focus-visible + label, .no-pref input[type="radio"]:focus-visible + label {
   outline: 2px solid #333;
 }
 
-.bot-types input[type="radio"] {
+.bot-types input[type="radio"], .no-pref input[type="radio"] {
   position: absolute;
   opacity: 0;
 }
