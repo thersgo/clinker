@@ -2,7 +2,7 @@
 
 Clinker is a meeting platform for robots that connects certain robots based on their preferences. 
 
-# Project gaol
+# Project goal
 
 
 # Team members
@@ -26,10 +26,10 @@ Clinker is a meeting platform for robots that connects certain robots based on t
 - Improved Figma design.
 - Started coding.
 
-#Day 3
+# Day 3
 
 
 
-#Features
+# Features
 - Robot filter
 - 
