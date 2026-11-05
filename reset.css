@@ -1,0 +1,7 @@
+*, *::before, *::after  { box-sizing: border-box; } *:not(dialog) { margin: 0; }
+input, button, textarea, select { font: inherit; } p { text-wrap: pretty; } /**/
+img, picture, video, canvas, svg { display: block; max-width: 100%; } /*MODERN*/
+body { line-height: 1.5; -webkit-font-smoothing: antialiased; } /* CSS RESET  */
+p, h1, h2, h3, h4, h5, h6 { overflow-wrap: break-word; } /*Josh W Comeau 2026 */
+h1, h2, h3, h4, h5, h6 { text-wrap: balance; } /*******************************/
+#root, #__next { isolation: isolate; } /***************************************/
