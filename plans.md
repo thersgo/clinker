@@ -106,4 +106,3 @@ Kohustuslikud nõuded
 		Projekt on GitHubis ning esitatakse ka töötava veebilingina õpetajaga kokku lepitud keskkonnas.
 		Iga teostaja panus on tuvastatav commit'ide ja tööjaotuse kaudu.
 		III kursuse panus kajastub kontrollipäevikus ja/või issue'des.
-
