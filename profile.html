@@ -7,5 +7,25 @@
 	
 	<title>Clinker: profile</title>
 </head> <body>
-	
+	<header>
+		<h3>Clinker</h3>
+	</header>
+
+	<h2>What is your name?</h2>
+	<input type="text" placeholder="Enter your name"/>
+
+	<h2>What is your age?</h2>
+	<input type="number" placeholder="Enter your age"/>
+
+	<h2>What type of bot are you interested in?</h2>
+	<select>
+		<option value="">Select your preference</option>
+		<option type="radio" value="android">Humanoid / Android</option>
+		<option type="radio" value="companion">Companion Bot</option>
+		<option type="radio" value="ai">AI Assistant</option>
+		<option type="radio" value="service">Service / Household Bot</option>
+		<option type="radio" value="no-preference">No preference</option>
+	</select>
+	<br>
+	<button type="submit" onclick="window.location.href='mate.html'">Create profile</button>
 </body> </html>
