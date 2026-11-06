@@ -2,8 +2,7 @@
 
 Clinker is a meeting platform for robots that connects certain robots based on their preferences. 
 
-# Project goal
-
+https://clinker.neocities.org/
 
 # Team members
 - Keiro Toodre TAK-24
