@@ -27,7 +27,7 @@ https://clinker.neocities.org/
 - Started coding.
 
 # Day 3
-- Finished coding.
+- Finished coding.*
 
 
 # Features
