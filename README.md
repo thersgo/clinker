@@ -6,6 +6,7 @@ Clinker is a meeting platform for robots that connects certain robots based on t
 
 
 # Team members
+- Keiro Toodre TAK-24
 - Robin Vaikla, TAK-25
 - Henri Kangro, TA-25
 - Mathias Sink, TAK-26
@@ -27,7 +28,7 @@ Clinker is a meeting platform for robots that connects certain robots based on t
 - Started coding.
 
 # Day 3
-
+- Finished coding.
 
 
 # Features
