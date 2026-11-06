@@ -15,6 +15,11 @@ https://clinker.neocities.org/
 
 -Figma: https://www.figma.com/design/YL15YKJC5tAiAS4AIIAPpP/Clinker?node-id=0-1&p=f&t=3D3ZiXVc78qf3Mk3-0 
 
+# Used Tools
+- Figma
+- -VSCode
+- Github
+
 
 
 # Day 1
