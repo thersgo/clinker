@@ -31,5 +31,4 @@ https://clinker.neocities.org/
 
 
 # Features
-- Robot filter
-- 
+- automatic sorting
